@@ -1,1 +1,1 @@
-Este archivo se ha creado en la primera rama
+Este texto ha sido modificado desde la rama segunda
